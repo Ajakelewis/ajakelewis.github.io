@@ -4,6 +4,10 @@ title:  "Blog 0"
 date:   2020-09-01 17:10:09 -0700
 categories: Class
 ---
+body {
+	background: #663399; /* Beccapurple */
+	margin: 0;
+}
 <div class="header">
   <c><h2>Alden Lewis's CIT 480 Jekkyl Blog</h2></c>
 </div>
