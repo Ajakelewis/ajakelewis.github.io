@@ -5,7 +5,7 @@ date:   2020-09-01 17:10:09 -0700
 categories: Class
 ---
 <div class="header">
-  <h2>Alden Lewis's CIT 480 Jekkyl Blog</h2>
+  <h2><c>Alden Lewis's CIT 480 Jekkyl Blog</c></h2>
 </div>
 
 <div class="row">
@@ -22,6 +22,7 @@ categories: Class
     <div class="card">
       <h2>About Me</h2>
       <div class="me.jpg" style="height:100px;">Image</div>
+	  <p><img src="/me.jpg" height=50 width=100>ajakelewis</p>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     </div>
 
