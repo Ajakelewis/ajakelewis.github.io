@@ -14,7 +14,7 @@ categories: Class
       <h2>Blog 0</h2>
       <h5> Sep 1, 2020</h5>
      
-      <p>Some text..</p>
+      <p>This is the first blog for our CIT 480 class, and my fisrt experience using github to build a website. </p>
     </div>
    
   </div>
@@ -41,7 +41,7 @@ categories: Class
 
     <div class="card">
       <h3>Follow Me</h3>
-      <p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height=30 width=75><strong>:  ajakelewis</strong></p>
+      <p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height=20 width=65><strong>   ajakelewis</strong></p>
     </div>
   </div>
 </div>
