@@ -16,12 +16,17 @@ categories: Git Senior-Design
       <h2>Blog 0</h2>
       <h5> Sep 1, 2020</h5>
      
-      <p>This is the first blog for our CIT 480 class, and my first experience using github to build a website. 
+      <p>This is the first blog for our CIT 480 class, and my first experience using github to build a website. It doesn't have all the bells and whistles of a CMS engine from what I can see, but gives you complete access and control over everything.
 	  As the weeks progress I will work out a more visually appealing theme, I just wanted to get the base site functioning before the first blog was due. 
 	  It wasn't too hard to set up, and relearning about HTML from my CIT 384 class that I'm taking right now as well really helps! 
 	  I'm looking forward to seeing what else I can do with this, and what else the class has in store for me.
 	  I used a different method than I feel like others may have to accomplish this assignment, I'm not sure if it was easier or harder not having direct instructions to follow, I'm leaning on it being little harder, but maybe more interesting because you're first to do the research and apply it in your own way.
+	  I havent finished the lab assignment yet but will be doing that this weekend. I believe we created a LAMP stack on docker in a past class, so I'm hoping that the lab will be somewhat familiar to me.
+	  This is one of my last classes for my degree, and I'm hoping to try my hardest and make the most out of it. 
+	  I hope thats what we were supposed to be doing. I guess I'll find out and either fix it or keep on doing it next!
 	  
+	  Have a nice weekend!
+	  Alden Jake Lewis
 	  </p>
     </div>
   </div>
