@@ -1,7 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: post
+title:  "Blog 0"
+date:   2020-09-04 17:10:09 -0700
+categories: jekyll update
 ---
-test
