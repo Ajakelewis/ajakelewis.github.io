@@ -19,7 +19,6 @@ categories: Class
 	  
 	  It wasn't too hard to set up, and relearning about HTML from my CIT 384 class that I'm taking right now as well really helps!</p>
     </div>
-   
   </div>
   
   
@@ -39,12 +38,10 @@ categories: Class
     <div class="card">
       <h2>About Me</h2>
 	  <p><img src="https://ajakelewis.github.io/ajakelewis/me.jpg" height=100 width=100><p>I am a CIT Major at CSUN looking forward to graduating next spring!</p>
-      
     </div>
-
+  </div>
     <div class="card">
       <h3>Follow Me</h3>
       <p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height=20 width=65><strong>   ajakelewis</strong></p>
     </div>
-  </div>
 </div>
