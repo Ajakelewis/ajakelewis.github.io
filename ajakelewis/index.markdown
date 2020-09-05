@@ -25,8 +25,8 @@ categories: Git Senior-Design
 	  <p>This is one of my last classes for my degree, and I'm hoping to try my hardest and make the most out of it. 
 	  I hope thats what we were supposed to be doing. I guess I'll find out and either fix it or keep on doing it next!</p>
 	  <br>
-	  <p>Have a nice weekend!
-	  Alden Jake Lewis
+	  <p>Have a nice weekend!</p>
+	  <p>Alden Jake Lewis
 	  </p>
     </div>
   </div>
