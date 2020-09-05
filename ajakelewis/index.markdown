@@ -6,7 +6,7 @@ categories: Git Senior-Design
 ---
 
 <div class="header">
-  <c><h2>Alden Lewis's CIT 480 Jekkyl Blog</h2></c>
+  <c><h2>Alden Lewis's CIT 480 Jekkyl Blog</h2></c><img src="https://www.csun.edu/sites/default/themes/csun/logo.png" height=100 width=100>
 </div>
 <br>
 <div class="row">
@@ -22,11 +22,11 @@ categories: Git Senior-Design
     </div>
   </div>
   <br>
-  <b4>
+  <br>
   <div class="rightcolumn">
     <div class="card">
       <h2>About Me</h2>
-	  <p><img src="https://ajakelewis.github.io/ajakelewis/me.jpg" height=100 width=100><p>I am a CIT Major at CSUN looking forward to graduating next spring!</p>
+	  <p><c><img src="https://ajakelewis.github.io/ajakelewis/me.jpg" height=100 width=100>I am a CIT Major at CSUN looking forward to graduating next spring!</c></p>
     <br>
 	<br>
 	<div class="card">
