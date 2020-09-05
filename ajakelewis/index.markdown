@@ -14,7 +14,10 @@ categories: Class
       <h2>Blog 0</h2>
       <h5> Sep 1, 2020</h5>
      
-      <p>This is the first blog for our CIT 480 class, and my fisrt experience using github to build a website. </p>
+      <p>This is the first blog for our CIT 480 class, and my first experience using github to build a website. 
+	  As the weeks progress I will work out a more visually appealing theme, I just wanted to get the base site functioning before the first blog was due. 
+	  
+	  It wasn't too hard to set up, and relearning about HTML from my CIT 384 class that I'm taking right now as well really helps!</p>
     </div>
    
   </div>
