@@ -18,6 +18,20 @@ categories: Class
     </div>
    
   </div>
+  
+  
+  <div>
+  
+  
+  
+  
+  
+  
+  
+  
+  </div>
+  
+ 
   <div class="rightcolumn">
     <div class="card">
       <h2>About Me</h2>
