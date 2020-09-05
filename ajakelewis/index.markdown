@@ -17,8 +17,8 @@ categories: Git Senior-Design
      
       <p>This is the first blog for our CIT 480 class, and my first experience using github to build a website. 
 	  As the weeks progress I will work out a more visually appealing theme, I just wanted to get the base site functioning before the first blog was due. 
-	  
-	  It wasn't too hard to set up, and relearning about HTML from my CIT 384 class that I'm taking right now as well really helps!</p>
+	  It wasn't too hard to set up, and relearning about HTML from my CIT 384 class that I'm taking right now as well really helps! I'm looking forward to seeing what else I can do with this, and what else the class has in store for me.
+	  </p>
     </div>
   </div>
   <br>
@@ -26,7 +26,7 @@ categories: Git Senior-Design
   <div class="rightcolumn">
     <div class="card">
       <h2>About Me</h2>
-	  <p><c><img src="https://ajakelewis.github.io/ajakelewis/me.jpg" height=100 width=100>I am a CIT Major at CSUN looking forward to graduating next spring!</c></p>
+	  <p><c><img src="https://ajakelewis.github.io/ajakelewis/me.jpg" height=100 width=100>  I am a CIT Major at CSUN looking forward to graduating next spring! I minor in Geology and have been working with computers since I was a kid.</c></p>
     <br>
 	<br>
 	<div class="card">
