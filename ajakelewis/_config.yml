@@ -22,7 +22,7 @@ title: CIT 480 Blog
 email: alden.lewis.481@my.csun.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is the blog that I'll be using to complete assignments in CIT 480
-baseurl: "/ajakelewis" # the subpath of your site, e.g. /blog
+baseurl: "/ajakelewis/_site" # the subpath of your site, e.g. /blog
 url: "https://ajakelewis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NA
 github_username:  ajakelewis
