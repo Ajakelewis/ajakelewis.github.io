@@ -28,7 +28,7 @@ twitter_username: NA
 github_username:  ajakelewis
 
 # Build settings
-theme: minima
+theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
 
