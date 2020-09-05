@@ -5,7 +5,7 @@ date:   2020-09-01 17:10:09 -0700
 categories: Class
 ---
 <div class="header">
-  <h2>Alden Lewis's CIT 480 Blog</h2>
+  <h2>Alden Lewis's CIT 480 Jekkyl Blog</h2>
 </div>
 
 <div class="row">
