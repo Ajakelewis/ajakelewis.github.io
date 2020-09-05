@@ -4,14 +4,11 @@ title:  "Blog 0"
 date:   2020-09-01 17:10:09 -0700
 categories: Class
 ---
-body {
-	background: #663399; /* Beccapurple */
-	margin: 0;
-}
+
 <div class="header">
   <c><h2>Alden Lewis's CIT 480 Jekkyl Blog</h2></c>
 </div>
-
+<br>
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
@@ -24,20 +21,7 @@ body {
 	  It wasn't too hard to set up, and relearning about HTML from my CIT 384 class that I'm taking right now as well really helps!</p>
     </div>
   </div>
-  
-  
- 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
- 
+  <br>
   <div class="rightcolumn">
     <div class="card">
       <h2>About Me</h2>
