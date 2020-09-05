@@ -21,13 +21,13 @@ categories: Class
   <div class="rightcolumn">
     <div class="card">
       <h2>About Me</h2>
-	  <p><img src="https://ajakelewis.github.io/ajakelewis/me.jpg" height=50 width=100></p>
+	  <p><img src="https://ajakelewis.github.io/ajakelewis/me.jpg" height=100 width=100></p>
       <p>I am a CIT Major at CSUN looking forward to graduating next spring!</p>
     </div>
 
     <div class="card">
       <h3>Follow Me</h3>
-      <p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height=40 width=75> <h3>ajakelewis</h3></p>
+      <p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height=40 width=75><strong>ajakelewis</strong></p>
     </div>
   </div>
 </div>
