@@ -27,7 +27,7 @@ categories: Class
 
     <div class="card">
       <h3>Follow Me</h3>
-      <p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height=10 width=20>ajakelewis</p>
+      <p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height=50 width=100>ajakelewis</p>
     </div>
   </div>
 </div>
