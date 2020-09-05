@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Blog 0"
+layout: page
+title:  "Blog 0 - Intro to Git"
 date:   2020-09-01 17:10:09 -0700
-categories: Class
+categories: Git Senior-Design
 ---
 
 <div class="header">
@@ -22,11 +22,14 @@ categories: Class
     </div>
   </div>
   <br>
+  <b4>
   <div class="rightcolumn">
     <div class="card">
       <h2>About Me</h2>
 	  <p><img src="https://ajakelewis.github.io/ajakelewis/me.jpg" height=100 width=100><p>I am a CIT Major at CSUN looking forward to graduating next spring!</p>
-    <div class="card">
+    <br>
+	<br>
+	<div class="card">
       <h3>Follow Me</h3>
       <p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height=20 width=65><strong>   ajakelewis</strong></p>
 </div>
