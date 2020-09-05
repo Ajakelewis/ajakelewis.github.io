@@ -6,7 +6,7 @@ categories: Git Senior-Design
 ---
 
 <div class="header">
-  <c><h2>Alden Lewis's CIT 480 Jekkyl Blog<img src="https://www.csun.edu/sites/default/themes/csun/logo.png" height=100 width=200></h2></c>
+  <c><h2>Alden Lewis's CIT 480 Jekkyl Blog<div style="text-align: right"><img src="https://www.csun.edu/sites/default/themes/csun/logo.png" height=100 width=200></div></h2></c>
 </div>
 <br>
 <div class="row">
