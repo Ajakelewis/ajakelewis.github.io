@@ -24,15 +24,10 @@ categories: Class
       <div class="fakeimg" style="height:100px;">Image</div>
       <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
     </div>
-    <div class="card">
-      <h3>Popular Post</h3>
-      <div class="fakeimg">Image</div><br>
-      <div class="fakeimg">Image</div><br>
-      <div class="fakeimg">Image</div>
-    </div>
+
     <div class="card">
       <h3>Follow Me</h3>
-      <p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png">Github</p>
+      <p><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height="100px" width "200px">Github</p>
     </div>
   </div>
 </div>
