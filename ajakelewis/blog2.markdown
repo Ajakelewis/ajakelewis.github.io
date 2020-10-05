@@ -10,26 +10,6 @@ categories: Git Senior-Design
   <c><h2>Alden Lewis's CIT 480 Jekkyl Blog</h2></c>
 </div>
 <br>
-<html lang="en">
-  <head>
-    <title>CIT384 Project 1</title>
-    <link rel="stylesheet" href="/style.css" />
-  </head>
-  <header>
-  <h1>
-      Blog Website:
-      <p style="font-family:Comic Sans MS">CIT 480</p>
-    </h1>
-    <h2>
-      <nav role="navigation">
-        <a href="blog1.html" title="Blog Site 480 Blog 1">Home "Blog 1"</a>
-        <a href="blog2.html" title="Blog Site 480 Blog 2">Blog 2</a>
-        <a href="blog3.html" title="Blog Site 480 Blog 3">Blog 3</a>
-		<a href="blog4.html" title="Blog Site 480 Blog 4">Blog 4</a>
-		<a href="blog5.html" title="Blog Site 480 Blog 5">Blog 5</a>
-      </nav>
-    </h2>
-  </header>
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
