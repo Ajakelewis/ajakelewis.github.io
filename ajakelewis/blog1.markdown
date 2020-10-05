@@ -17,7 +17,7 @@ categories: Git Senior-Design
  
     <h2>
       <nav role="navigation">
-        <a href="blog1.html" title="Blog Site 480 Blog 1">Blog 0</a>
+        <a href="blog0.html" title="Blog Site 480 Blog 1">Blog 0</a>
 		<a href="blog1.html" title="Blog Site 480 Blog 1">Blog 1</a>
         <a href="blog2.html" title="Blog Site 480 Blog 2">Blog 2</a>
         <a href="blog3.html" title="Blog Site 480 Blog 3">Blog 3</a>

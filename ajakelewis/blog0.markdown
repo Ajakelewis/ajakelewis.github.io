@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Blog 3"
-date:   2020-09-20 
+title:  "Blog 0 - Intro to Git"
+date:   2020-09-01 
 categories: Git Senior-Design
 ---
 <html lang="en">
