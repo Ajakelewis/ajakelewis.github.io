@@ -51,7 +51,7 @@ categories: Git Senior-Design
   <div class="rightcolumn">
     <div class="card">
       <h2>About Me</h2>
-	  <p><c><img src="https://ajakelewis.github.io/ajakelewis/me.jpg" height=100 width=100>  I am a CIT Major at CSUN looking forward to graduating next spring! I minor in Geology and have been working with computers since I was a kid.</c></p>
+	  <h2><c><img src="https://ajakelewis.github.io/ajakelewis/me.jpg" height=100 width=100>  I am a CIT Major at CSUN looking forward to graduating next spring! I minor in Geology and have been working with computers since I was a kid.</c></h2>
     <br>
 	<br>
 	<div class="card">
