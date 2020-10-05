@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Blog 0 - Intro to Git"
-date:   2020-09-01 17:10:09 -0700
+title:  "Blog 2"
+date:   2020-09-14 
 categories: Git Senior-Design
 ---
 
@@ -13,8 +13,8 @@ categories: Git Senior-Design
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>Blog 0</h2>
-      <h5> Sep 1, 2020</h5>
+      <h2>Blog 2</h2>
+      <h5> Sep 14, 2020</h5>
      
       <p>This is the first blog for our CIT 480 class, and my first experience using github to build a website. It doesn't have all the bells and whistles of a CMS engine from what I can see, but gives you complete access and control over everything.
 	  As the weeks progress I will work out a more visually appealing theme, I just wanted to get the base site functioning before the first blog was due. 
