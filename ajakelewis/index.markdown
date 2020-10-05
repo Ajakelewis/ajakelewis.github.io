@@ -4,25 +4,22 @@ title:  "Blog 0 - Intro to Git"
 date:   2020-09-01 17:10:09 -0700
 categories: Git Senior-Design
 ---
-
-<div class="header">
-<div style="text-align: right"><img src="https://www.csun.edu/sites/default/themes/csun/logo.png" height=100 width=300></div>
-  <c><h2>Alden Lewis's CIT 480 Jekkyl Blog</h2></c>
-</div>
-<br>
 <html lang="en">
   <head>
     <title>CIT384 Project 1</title>
     <link rel="stylesheet" href="/style.css" />
   </head>
   <header>
-  <h1>
-      Blog Website:
-      <p style="font-family:Comic Sans MS">CIT 480</p>
-    </h1>
+    <div class="header">
+<div style="text-align: right"><img src="https://www.csun.edu/sites/default/themes/csun/logo.png" height=100 width=300></div>
+  <c><h2>Alden Lewis's CIT 480 Jekkyl Blog</h2></c>
+</div>
+<br>
+ 
     <h2>
       <nav role="navigation">
-        <a href="blog1.html" title="Blog Site 480 Blog 1">Home "Blog 1"</a>
+        <a href="blog1.html" title="Blog Site 480 Blog 1">Blog 0</a>
+		<a href="blog1.html" title="Blog Site 480 Blog 1">Blog 1</a>
         <a href="blog2.html" title="Blog Site 480 Blog 2">Blog 2</a>
         <a href="blog3.html" title="Blog Site 480 Blog 3">Blog 3</a>
 		<a href="blog4.html" title="Blog Site 480 Blog 4">Blog 4</a>
@@ -30,6 +27,8 @@ categories: Git Senior-Design
       </nav>
     </h2>
   </header>
+
+
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
