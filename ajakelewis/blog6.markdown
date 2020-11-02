@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Blog 4"
-date:   2020-09-26 
+title:  "Blog 6"
+date:   2020-10-12 
 categories: Git Senior-Design
 ---
 <html lang="en">
@@ -38,16 +38,13 @@ categories: Git Senior-Design
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>Blog 4</h2>
-      <h5> Sep 26, 2020</h5>
- 
-      <p>This week was a tough one with how much work I already have to do. 
-	  My CIT courses are what I'm mainly focused on, but my minor as Geology has been taking up more time than all my CIT courses combined.
-	  My Professor has us writing these lab reports each week that end up being over 10 pages long. 
-	  In previous classes I had to do lab reports like this as a final project, but in this class it's weekly. 
-	  It's a lot, but it is my last semester as a full time student and I'm going to do my best to power through it</p> 
-	  <p>In other news, still no luck with the Nvidia 3080's they are some hard tech to acquire. They retailed at $699, and have been reselling for over $1,500 online! 
-	  They really dropped the ball on stock, and hopefully they're able to make up for this. </p>
+      <h2>Blog 6</h2>
+      <h5> Oct 12, 2020</h5>
+     
+      <p>This week in my classes, I started work on a resume website for CIT384, its multi part with some of it already turned in and the parts I'm building on from what I already turned in due tomorrow. 
+	  More Geology labs done, I've developed a formula for writing these papers so it has made my life a lot easier and freed up some time for me. </p>
+	  <p> I've had time to take a look at the ansible playbook lab and will start getting to work on that ASAP, it looks pretty short and straightforward so I'm hoping it will be a piece of cake. </p>
+	  <p> In better news, I was finally able to get that Nvidia graphics card that I was talking about, It wasn't the exact one that I wanted, but at this point beggers can't be choosers. Happy to have gotten what, I got, and I'm excited to be abnle to play games on a higher level!</p>
 	  <br>
 	  <p>Have a nice weekend!</p>
 	  <p>Alden Jake Lewis

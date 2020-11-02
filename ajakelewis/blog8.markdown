@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Blog 4"
-date:   2020-09-26 
+title:  "Blog 8"
+date:   2020-10-27 
 categories: Git Senior-Design
 ---
 <html lang="en">
@@ -38,16 +38,16 @@ categories: Git Senior-Design
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>Blog 4</h2>
-      <h5> Sep 26, 2020</h5>
- 
-      <p>This week was a tough one with how much work I already have to do. 
-	  My CIT courses are what I'm mainly focused on, but my minor as Geology has been taking up more time than all my CIT courses combined.
-	  My Professor has us writing these lab reports each week that end up being over 10 pages long. 
-	  In previous classes I had to do lab reports like this as a final project, but in this class it's weekly. 
-	  It's a lot, but it is my last semester as a full time student and I'm going to do my best to power through it</p> 
-	  <p>In other news, still no luck with the Nvidia 3080's they are some hard tech to acquire. They retailed at $699, and have been reselling for over $1,500 online! 
-	  They really dropped the ball on stock, and hopefully they're able to make up for this. </p>
+      <h2>Blog 8</h2>
+      <h5>Oct 27, 2020</h5>
+     
+      <p>This week has definitely been one of the better ones of the semester. I was able to get a lot of things done early on, and it finally gave me time to come up for air. 
+	  Halloween is also this week, and although I won't be able to see my friends or go out, I get to play horror games with my friends online and it's probably just as much fun and a lot safer.
+	  By the sound of the news things are getting worse again, but it could also have something to do with the election coming up. It should be an interesting couple of weeks, but I'm super happy that we are entering the close of this year.
+	  </p>
+	  <p> I've learned a lot about css and html from 384, I think I've heard a few people talking down on it but it's definitely been helpful in putting together these little websites and understanding how they work and how the should be structured. 
+	  I'm going to try to implement some changes from what I've learned there to this blog, I haven't had too much time, but since things are better than they have been I'll make time to play around with it. 
+	  I changed the github name below to link to my profile now as a start, as well as making the CSUN logo look a little better and will update it in the next blog as I add the changes.</p>
 	  <br>
 	  <p>Have a nice weekend!</p>
 	  <p>Alden Jake Lewis

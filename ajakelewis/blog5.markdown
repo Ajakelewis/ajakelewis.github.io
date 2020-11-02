@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Blog 4"
-date:   2020-09-26 
+title:  "Blog 5"
+date:   2020-10-04 
 categories: Git Senior-Design
 ---
 <html lang="en">
@@ -38,16 +38,13 @@ categories: Git Senior-Design
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>Blog 4</h2>
-      <h5> Sep 26, 2020</h5>
- 
-      <p>This week was a tough one with how much work I already have to do. 
-	  My CIT courses are what I'm mainly focused on, but my minor as Geology has been taking up more time than all my CIT courses combined.
-	  My Professor has us writing these lab reports each week that end up being over 10 pages long. 
-	  In previous classes I had to do lab reports like this as a final project, but in this class it's weekly. 
-	  It's a lot, but it is my last semester as a full time student and I'm going to do my best to power through it</p> 
-	  <p>In other news, still no luck with the Nvidia 3080's they are some hard tech to acquire. They retailed at $699, and have been reselling for over $1,500 online! 
-	  They really dropped the ball on stock, and hopefully they're able to make up for this. </p>
+      <h2>Blog 5</h2>
+      <h5> Oct 4, 2020</h5>
+     
+      <p>This week was a mountain but I think we're on the way back down now. We gave our first (and I think final) presentation for CIT425 as the first group to present. 
+	  We did the presentation on botnet, and based on what Kaplan said we killed it. The presentation was 30 minutes, but we were able to kill a lot of time with a live demo I created of an example botnet web panel. </p>
+	  <p> It was a lot of work along with everything else I have to do, but I guess it's really nice to know that at least that is out of the way and a portion of my grade is secure. That project took up a ton of time and I'm glad its over. 
+	  My other classes have been a little bit better, but all the work keeps being due at the same time so there ends of being periods of nothing, then periods of extreme rushing. I have lab 2 for this class that I'm finishing up, the dockerfile is working I just want to make sure it looks nice and is done in the most efficient way possible. </p>
 	  <br>
 	  <p>Have a nice weekend!</p>
 	  <p>Alden Jake Lewis

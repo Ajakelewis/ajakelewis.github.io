@@ -1,12 +1,12 @@
 ---
 layout: page
-title:  "Blog 4"
-date:   2020-09-26 
+title:  "Blog 7"
+date:   2020-10-18 
 categories: Git Senior-Design
 ---
 <html lang="en">
   <head>
-    <title>CIT 480 Blog</title>
+   <title>CIT 480 Blog</title>
     <link rel="stylesheet" href="/style.css" />
   </head>
   <header>
@@ -38,16 +38,14 @@ categories: Git Senior-Design
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>Blog 4</h2>
-      <h5> Sep 26, 2020</h5>
- 
-      <p>This week was a tough one with how much work I already have to do. 
-	  My CIT courses are what I'm mainly focused on, but my minor as Geology has been taking up more time than all my CIT courses combined.
-	  My Professor has us writing these lab reports each week that end up being over 10 pages long. 
-	  In previous classes I had to do lab reports like this as a final project, but in this class it's weekly. 
-	  It's a lot, but it is my last semester as a full time student and I'm going to do my best to power through it</p> 
-	  <p>In other news, still no luck with the Nvidia 3080's they are some hard tech to acquire. They retailed at $699, and have been reselling for over $1,500 online! 
-	  They really dropped the ball on stock, and hopefully they're able to make up for this. </p>
+      <h2>Blog 7</h2>
+      <h5> Oct 18, 2020</h5>
+	  
+      <p>I keep on forgetting that I need to submit the link after I finish editing and I've missed like 3 blogs so far. I need to get on top of it, something about pushing the updated folder makes me feel like I turned it in.</p>
+	  <p>This was one of my hardest weeks for all my classes so far, and I thought it was going to get a lot easier after the 425 presentation. 
+	  These Geology lab reports are killer, it makes it so hard for me to get anything else done while I'm working on them. This in a addition to work have been a nightmare, but I'm still powering through it so we're gonna make it. 
+	  <p> I updated the navigation to include all of the pages that their are going to be, I haven't exactly figured out how to remove the ajakelewis.github.io from the top so I guess I'll leave it for now.</p> 
+	  <p> We finished and presented our first project in CIT384 and I was able to snah 100% on it, but we're already getting started and choosing parts for the next one. It's first come first serve on topics so I'm gonna try to figure out mine ASAP.</p>
 	  <br>
 	  <p>Have a nice weekend!</p>
 	  <p>Alden Jake Lewis
