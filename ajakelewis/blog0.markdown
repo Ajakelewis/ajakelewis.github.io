@@ -38,7 +38,7 @@ categories: Git Senior-Design
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>Blog 1</h2>
+      <h2>Blog 0</h2>
       <h5> Sep 1, 2020</h5>
      
       <p>This is the first blog for our CIT 480 class, and my first experience using github to build a website. It doesn't have all the bells and whistles of a CMS engine from what I can see, but gives you complete access and control over everything.
