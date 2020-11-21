@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  "Blog 4"
-date:   2020-09-26 
+title:  "Blog 11"
+date:   2020-11-18 
 categories: Git Senior-Design
 ---
 <html lang="en">
@@ -24,6 +24,14 @@ categories: Git Senior-Design
         <a href="blog3.html" title="Blog Site 480 Blog 3">Blog 3</a>
 		<a href="blog4.html" title="Blog Site 480 Blog 4">Blog 4</a>
 		<a href="blog5.html" title="Blog Site 480 Blog 5">Blog 5</a>
+		<a href="blog6.html" title="Blog Site 480 Blog 6">Blog 6</a>
+		<a href="blog7.html" title="Blog Site 480 Blog 7">Blog 7</a>
+		<a href="blog8.html" title="Blog Site 480 Blog 8">Blog 8</a>
+		<a href="blog9.html" title="Blog Site 480 Blog 9">Blog 9</a>
+		<a href="blog10.html" title="Blog Site 480 Blog 10">Blog 10</a>
+		<a href="blog11.html" title="Blog Site 480 Blog 11">Blog 11</a>
+		<a href="blog12.html" title="Blog Site 480 Blog 12">Blog 12</a>
+      </nav>
       </nav>
     </h2>
   </header>
@@ -31,17 +39,10 @@ categories: Git Senior-Design
 <div class="row">
   <div class="leftcolumn">
     <div class="card">
-      <h2>Blog 4</h2>
-      <h5> Sep 26, 2020</h5>
+      <h2>Blog 11</h2>
+      <h5> Nov 19, 2020</h5>
      
-      <p>This is the first blog for our CIT 480 class, and my first experience using github to build a website. It doesn't have all the bells and whistles of a CMS engine from what I can see, but gives you complete access and control over everything.
-	  As the weeks progress I will work out a more visually appealing theme, I just wanted to get the base site functioning before the first blog was due. 
-	  It wasn't too hard to set up, and relearning about HTML from my CIT 384 class that I'm taking right now as well really helps! </p>
-	  <p>I'm looking forward to seeing what else I can do with this, and what else the class has in store for me.
-	  I used a different method than I feel like others may have to accomplish this assignment, I'm not sure if it was easier or harder not having direct instructions to follow, I'm leaning on it being little harder, but maybe more interesting because you're first to do the research and apply it in your own way.
-	  I havent finished the lab assignment yet but will be doing that this weekend. I believe we created a LAMP stack on docker in a past class, so I'm hoping that the lab will be somewhat familiar to me. </p>
-	  <p>This is one of my last classes for my degree, and I'm hoping to try my hardest and make the most out of it. 
-	  I hope thats what we were supposed to be doing. I guess I'll find out and either fix it or keep on doing it next!</p>
+      <p></p>
 	  <br>
 	  <p>Have a nice weekend!</p>
 	  <p>Alden Jake Lewis
