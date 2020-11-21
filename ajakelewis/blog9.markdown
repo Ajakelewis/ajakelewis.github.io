@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Blog 9"
-date:   2020-11-24
+date:   2020-11-02
 categories: Git Senior-Design
 ---
 <html lang="en">
