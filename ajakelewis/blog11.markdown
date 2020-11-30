@@ -42,7 +42,8 @@ categories: Git Senior-Design
       <h2>Blog 11</h2>
       <h5> Nov 19, 2020</h5>
      
-      <p></p>
+      <p>For this week in my classes, I have successfully completed all my work to date and am caught up enough to relax a little. I had a lot of work around the house to take care of and its been nice finally getting caught up in those things too.</p>
+	  <p>In other unfortunate news, my girlfriend and her family have tested positive for coronavirus, and while all my tests have come up negative so far, I'll have to continue getting tested until I can know forsure. This definitely puts a dent in thanksgiving plans, but I'll be spending a lot of time taking care of things at home for the next few weeks.</p>
 	  <br>
 	  <p>Have a nice weekend!</p>
 	  <p>Alden Jake Lewis
