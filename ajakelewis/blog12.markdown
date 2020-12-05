@@ -32,7 +32,6 @@ categories: Git Senior-Design
 		<a href="blog11.html" title="Blog Site 480 Blog 11">Blog 11</a>
 		<a href="blog12.html" title="Blog Site 480 Blog 12">Blog 12</a>
       </nav>
-      </nav>
     </h2>
   </header>
 
