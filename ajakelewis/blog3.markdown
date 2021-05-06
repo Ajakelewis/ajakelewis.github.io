@@ -1,36 +1,34 @@
 ---
 layout: page
 title:  "Blog 3"
-date:   2020-09-20 
+date:   2021-03-10 
 categories: Git Senior-Design
 ---
 <html lang="en">
   <head>
-    <title>CIT 480 Blog</title>
+    <title>CIT 481 Blog</title>
     <link rel="stylesheet" href="/style.css" />
   </head>
   <header>
     <div class="header">
 <div style="text-align: right"><img src="https://www.csun.edu/sites/default/themes/csun/logo.png" height=100 width=350></div>
-  <c><h2>Alden Lewis's CIT 480 Jekkyl Blog</h2></c>
+  <c><h2>Alden Lewis's CIT 481 Blog</h2></c>
 </div>
 <br>
  
     <h2>
       <nav role="navigation">
-        <a href="blog0.html" title="Blog Site 480 Blog 1">Blog 0</a>
-		<a href="blog1.html" title="Blog Site 480 Blog 1">Blog 1</a>
-        <a href="blog2.html" title="Blog Site 480 Blog 2">Blog 2</a>
+        <a href="blog0.html" title="Blog Site 481 Blog 0">Blog 0</a>
+		<a href="blog1.html" title="Blog Site 481 Blog 1">Blog 1</a>
+		<a href="blog2.html" title="Blog Site 481 Blog 2">Blog 2</a>
         <a href="blog3.html" title="Blog Site 480 Blog 3">Blog 3</a>
-		<a href="blog4.html" title="Blog Site 480 Blog 4">Blog 4</a>
-		<a href="blog5.html" title="Blog Site 480 Blog 5">Blog 5</a>
-		<a href="blog6.html" title="Blog Site 480 Blog 6">Blog 6</a>
-		<a href="blog7.html" title="Blog Site 480 Blog 7">Blog 7</a>
-		<a href="blog8.html" title="Blog Site 480 Blog 8">Blog 8</a>
-		<a href="blog9.html" title="Blog Site 480 Blog 9">Blog 9</a>
-		<a href="blog10.html" title="Blog Site 480 Blog 10">Blog 10</a>
-		<a href="blog11.html" title="Blog Site 480 Blog 11">Blog 11</a>
-		<a href="blog12.html" title="Blog Site 480 Blog 12">Blog 12</a>
+		<a href="blog4.html" title="Blog Site 481 Blog 4">Blog 4</a>
+		<a href="blog5.html" title="Blog Site 481 Blog 5">Blog 5</a>
+		<a href="blog6.html" title="Blog Site 481 Blog 6">Blog 6</a>
+		<a href="blog7.html" title="Blog Site 481 Blog 7">Blog 7</a>
+		<a href="blog8.html" title="Blog Site 481 Blog 8">Blog 8</a>
+		<a href="blog9.html" title="Blog Site 481 Blog 9">Blog 9</a>
+		<a href="blog10.html" title="Blog Site 481 Blog 10">Blog 10</a>
       </nav>
     </h2>
   </header>
@@ -39,15 +37,9 @@ categories: Git Senior-Design
   <div class="leftcolumn">
     <div class="card">
       <h2>Blog 3</h2>
-      <h5> Sep 20, 2020</h5>
-     
-      <p>This week was meh, not too hard but not too much free time at all. I haven't figured out if this is the format I shoul be writing these in, but I think it said that these shoould involve the tasks I do in a week and Tech related stuff. 
-		 I feel like I've been leaning on the task stuff a lot more than the tech stuff so I'll talk about tech.</p>
-	  <p> This week, Nvidia launched their next gen 3080 graphics cards on the market, and they're supposed to be incredible, that is, if you can get your hands on them. They sold out within secons everyhwere, trying to find one anywhere close to retail price is impossible.
-	  I'm waiting it out as long as I can, and hoping stock starts coming in. They are releasing 2 other cards in the series, and I'm hoping that they take some of the attention away from the 3080. AMD should be dropping their new cards soon, and if I dont get my 3080 by then I might just have to go with the competition </p>
-	  
-	  <p></p>
-	  <br>
+      <h5> March 10, 2021</h5>
+     <p>My technical task for this week was helping redesign my friends dads website for his salon. I used wordpress and took a bunch of stock photos for it at his shop. The website came out nicer than before and he was really happy with it. There's still more to do, but I'm most likely going to save it for when I graduate.</p>
+   <br>
 	  <p>Have a nice weekend!</p>
 	  <p>Alden Jake Lewis
 	  </p>

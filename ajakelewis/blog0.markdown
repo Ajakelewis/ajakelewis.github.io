@@ -19,7 +19,16 @@ categories: Git Senior-Design
     <h2>
       <nav role="navigation">
         <a href="blog0.html" title="Blog Site 481 Blog 0">Blog 0</a>
-
+		<a href="blog1.html" title="Blog Site 481 Blog 1">Blog 1</a>
+		<a href="blog2.html" title="Blog Site 481 Blog 2">Blog 2</a>
+        <a href="blog3.html" title="Blog Site 480 Blog 3">Blog 3</a>
+		<a href="blog4.html" title="Blog Site 481 Blog 4">Blog 4</a>
+		<a href="blog5.html" title="Blog Site 481 Blog 5">Blog 5</a>
+		<a href="blog6.html" title="Blog Site 481 Blog 6">Blog 6</a>
+		<a href="blog7.html" title="Blog Site 481 Blog 7">Blog 7</a>
+		<a href="blog8.html" title="Blog Site 481 Blog 8">Blog 8</a>
+		<a href="blog9.html" title="Blog Site 481 Blog 9">Blog 9</a>
+		<a href="blog10.html" title="Blog Site 481 Blog 10">Blog 10</a>
       </nav>
     </h2>
   </header>

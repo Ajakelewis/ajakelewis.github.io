@@ -1,36 +1,34 @@
 ---
 layout: page
 title:  "Blog 6"
-date:   2020-10-12 
+date:   2021-04-05
 categories: Git Senior-Design
 ---
 <html lang="en">
   <head>
-    <title>CIT 480 Blog</title>
+    <title>CIT 481 Blog</title>
     <link rel="stylesheet" href="/style.css" />
   </head>
   <header>
     <div class="header">
 <div style="text-align: right"><img src="https://www.csun.edu/sites/default/themes/csun/logo.png" height=100 width=350></div>
-  <c><h2>Alden Lewis's CIT 480 Jekkyl Blog</h2></c>
+  <c><h2>Alden Lewis's CIT 481 Blog</h2></c>
 </div>
 <br>
  
     <h2>
       <nav role="navigation">
-        <a href="blog0.html" title="Blog Site 480 Blog 1">Blog 0</a>
-		<a href="blog1.html" title="Blog Site 480 Blog 1">Blog 1</a>
-        <a href="blog2.html" title="Blog Site 480 Blog 2">Blog 2</a>
+        <a href="blog0.html" title="Blog Site 481 Blog 0">Blog 0</a>
+		<a href="blog1.html" title="Blog Site 481 Blog 1">Blog 1</a>
+		<a href="blog2.html" title="Blog Site 481 Blog 2">Blog 2</a>
         <a href="blog3.html" title="Blog Site 480 Blog 3">Blog 3</a>
-		<a href="blog4.html" title="Blog Site 480 Blog 4">Blog 4</a>
-		<a href="blog5.html" title="Blog Site 480 Blog 5">Blog 5</a>
-		<a href="blog6.html" title="Blog Site 480 Blog 6">Blog 6</a>
-		<a href="blog7.html" title="Blog Site 480 Blog 7">Blog 7</a>
-		<a href="blog8.html" title="Blog Site 480 Blog 8">Blog 8</a>
-		<a href="blog9.html" title="Blog Site 480 Blog 9">Blog 9</a>
-		<a href="blog10.html" title="Blog Site 480 Blog 10">Blog 10</a>
-		<a href="blog11.html" title="Blog Site 480 Blog 11">Blog 11</a>
-		<a href="blog12.html" title="Blog Site 480 Blog 12">Blog 12</a>
+		<a href="blog4.html" title="Blog Site 481 Blog 4">Blog 4</a>
+		<a href="blog5.html" title="Blog Site 481 Blog 5">Blog 5</a>
+		<a href="blog6.html" title="Blog Site 481 Blog 6">Blog 6</a>
+		<a href="blog7.html" title="Blog Site 481 Blog 7">Blog 7</a>
+		<a href="blog8.html" title="Blog Site 481 Blog 8">Blog 8</a>
+		<a href="blog9.html" title="Blog Site 481 Blog 9">Blog 9</a>
+		<a href="blog10.html" title="Blog Site 481 Blog 10">Blog 10</a>
       </nav>
     </h2>
   </header>
@@ -39,13 +37,9 @@ categories: Git Senior-Design
   <div class="leftcolumn">
     <div class="card">
       <h2>Blog 6</h2>
-      <h5> Oct 12, 2020</h5>
-     
-      <p>This week in my classes, I started work on a resume website for CIT384, its multi part with some of it already turned in and the parts I'm building on from what I already turned in due tomorrow. 
-	  More Geology labs done, I've developed a formula for writing these papers so it has made my life a lot easier and freed up some time for me. </p>
-	  <p> I've had time to take a look at the ansible playbook lab and will start getting to work on that ASAP, it looks pretty short and straightforward so I'm hoping it will be a piece of cake. </p>
-	  <p> In better news, I was finally able to get that Nvidia graphics card that I was talking about, It wasn't the exact one that I wanted, but at this point beggers can't be choosers. Happy to have gotten what, I got, and I'm excited to be abnle to play games on a higher level!</p>
-	  <br>
+      <h5> April 5, 2021</h5>
+     <p> Hi Lisa, So not too much progress on technical stuff this week, I got my second dose of the vaccine and it really screwed me up for a couple days. The project seems to be getting organized, brent hasn't set a fosure date that we're meeting yet, but I think everyone's busy with other classes and is confident that they'll be able to get their parts done. </p>
+       <br>
 	  <p>Have a nice weekend!</p>
 	  <p>Alden Jake Lewis
 	  </p>
